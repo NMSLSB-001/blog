@@ -96,8 +96,8 @@ pnpm-global
 dist/
 
 # vitepress build output
-./docs/vitepress/dist
-./docs/vitepress/cache
+docs/.vitepress/dist
+docs/.vitepress/cache
 
 # Serverless directories
 .serverless/
